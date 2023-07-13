@@ -34,3 +34,5 @@ No último dia, exploramos o fascinante mundo da IA na análise de sentimentos d
 
 *Figura 3: Exemplos de Classificação de Sentimentos em Comentários*
 
+🔍 [Ver Código](Final_ifood_dev_week.ipynb) 👨‍💻
+
