@@ -1,4 +1,4 @@
-# NPSentiment 🙂😁😯😔
+# NPSentiment 😁🙂😔
 Este repositório contém o código e os recursos relacionados ao projeto prático realizado durante a Dev Week iFood, uma série de três lives práticas que exploram o uso do Python e da Inteligência Artificial (IA) para análise de dados.
 
 ### Descrição:
